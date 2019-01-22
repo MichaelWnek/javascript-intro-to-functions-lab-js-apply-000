@@ -49,17 +49,3 @@ describe('sayHiToGrandma(string)', function() {
   })
 })
 
-
-var uppercae ='HELLO!'
-
-uppercase.toUppercase() === uppercase
-
-var lowercase = 'hello!'
-
-lowercase.toLowercase() === lowercase
-
-var mixedCase = 'Hi there!'
-
-mixedCase.toLowercase() === mixedCase
-
-mixedCase.toUppercase() === mixedCase
