@@ -23,3 +23,4 @@ function logWhisper(string) {
   string = uppercase;
   console.log(lowercase);
 }
+
